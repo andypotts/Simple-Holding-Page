@@ -7,7 +7,7 @@ html {
 }
 body {
   background-size: cover;
-  background-image:url('../img/background.jpg'); // Image credit Paul Itkin - https://unsplash.com/photos/xCdFXXoZkJc/
+  background-image:url('../img/background.jpg'); /* Image credit Paul Itkin - https://unsplash.com/photos/xCdFXXoZkJc/ */
   text-align: center;
   background-color: #17181b;
   margin: 0;
